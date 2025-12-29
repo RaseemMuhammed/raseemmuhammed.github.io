@@ -47,4 +47,17 @@ footer {
     text-align: center;
     padding: 15px;
 }
+.resume-btn {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 12px 20px;
+    background-color: #2563eb;
+    color: #fff;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.resume-btn:hover {
+    background-color: #1d4ed8;
+}
 
